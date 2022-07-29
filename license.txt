@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spiderman Symbol
+* source:	https://sketchfab.com/3d-models/spiderman-symbol-754e99ea6e6d41a09e75cca02f52d593
+* author:	William Zarek (https://sketchfab.com/bugbilly)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spiderman Symbol" (https://sketchfab.com/3d-models/spiderman-symbol-754e99ea6e6d41a09e75cca02f52d593) by William Zarek (https://sketchfab.com/bugbilly) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
